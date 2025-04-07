@@ -1,0 +1,3 @@
+Id_Sector_IES	Sector_IES
+1	Oficial
+2	Privada
