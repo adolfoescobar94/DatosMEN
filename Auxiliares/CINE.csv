@@ -1,0 +1,112 @@
+﻿Id_Campo_Amplio;Campo_Amplio;Id_Campo_Especifico;Campo_Especifico;Id_Campo_Detallado;Campo_Detallado
+0;Programas y certificaciones genericos;1;Programas y certificaciones básicas;11;Programas y certificaciones básicas
+0;Programas y certificaciones genericos;2;Alfabetización y aritmética elemental;21;Alfabetización y aritmética elemental
+0;Programas y certificaciones genericos;3;Competencias personales y desarrollo;31;Competencias personales y desarrollo
+1;Educación;11;Educación;111;Ciencias de la educación
+1;Educación;11;Educación;112;Formación para docentes de educación pre-primaría
+1;Educación;11;Educación;113;Formación para docentes sin asignatura de especialización
+1;Educación;11;Educación;114;Formación para docentes con asignatura de especialización
+1;Educación;11;Educación;119;Educación no clasificada en otra parte
+1;Educación;18;Programas y certificaciones interdisciplinarios relativos a educación;188;Programas y certificaciones interdisciplinarios relativos a educación
+2;Artes y humanidades;21;Artes;211;Técnicas audiovisuales y producción para medios de comunicación
+2;Artes y humanidades;21;Artes;212;Diseño industrial, de moda e interiores
+2;Artes y humanidades;21;Artes;213;Bellas artes
+2;Artes y humanidades;21;Artes;214;Artesanías
+2;Artes y humanidades;21;Artes;215;Música y artes escénicas
+2;Artes y humanidades;21;Artes;219;Artes no clasificadas en otra parte
+2;Artes y humanidades;22;Humanidades (Excepto idiomas);221;Religión y Teología
+2;Artes y humanidades;22;Humanidades (Excepto idiomas);222;Historia y arqueología
+2;Artes y humanidades;22;Humanidades (Excepto idiomas);223;Filosofía y ética
+2;Artes y humanidades;22;Humanidades (Excepto idiomas);229;Humanidades (excepto idiomas) no clasificados en otra parte
+2;Artes y humanidades;23;Idiomas;231;Adquisición del lenguaje
+2;Artes y humanidades;23;Idiomas;232;Literatura y lingüística
+2;Artes y humanidades;23;Idiomas;239;Idiomas no clasificados en otra parte
+2;Artes y humanidades;28;Programas y certificaciones interdisciplinarios relativos a artes y humanidades;288;Programas y certificaciones interdisciplinarios relativos a artes y humanidades
+3;Ciencias sociales, Periodismo e Información;31;Ciencias sociales y del comportamiento;311;Economía
+3;Ciencias sociales, Periodismo e Información;31;Ciencias sociales y del comportamiento;312;Ciencias políticas y educación cívica
+3;Ciencias sociales, Periodismo e Información;31;Ciencias sociales y del comportamiento;313;Psicología
+3;Ciencias sociales, Periodismo e Información;31;Ciencias sociales y del comportamiento;314;Sociología, Antropología y estudios culturales
+3;Ciencias sociales, Periodismo e Información;31;Ciencias sociales y del comportamiento;315;Trabajo social
+3;Ciencias sociales, Periodismo e Información;31;Ciencias sociales y del comportamiento;319;Ciencias sociales y del comportamiento no clasificadas en otra parte
+3;Ciencias sociales, Periodismo e Información;32;Periodismo e información;321;Periodismo, comunicación y reportajes
+3;Ciencias sociales, Periodismo e Información;32;Periodismo e información;322;Bibliotecología, información y archivología
+3;Ciencias sociales, Periodismo e Información;32;Periodismo e información;329;Periodismo e información no clasificados en otra parte
+3;Ciencias sociales, Periodismo e Información;38;Programas y certificaciones interdisciplinarios relativos a ciencias sociales, periodismo e información;388;Programas y certificaciones interdisciplinarios relativos a ciencias sociales, periodismo e información
+4;Administración de empresas y derecho;41;Educación comercial y administración;411;Contabilidad e impuestos
+4;Administración de empresas y derecho;41;Educación comercial y administración;412;Gestión financiera, administración bancaria y seguros
+4;Administración de empresas y derecho;41;Educación comercial y administración;413;Gestión y administración
+4;Administración de empresas y derecho;41;Educación comercial y administración;414;Mercadotecnia y publicidad
+4;Administración de empresas y derecho;41;Educación comercial y administración;415;Secretariado y trabajo de oficina
+4;Administración de empresas y derecho;41;Educación comercial y administración;416;Ventas al por mayor y al por menor
+4;Administración de empresas y derecho;41;Educación comercial y administración;417;Competencias laborales
+4;Administración de empresas y derecho;41;Educación comercial y administración;419;Educación comercial y administración no clasificados en otra parte
+4;Administración de empresas y derecho;42;Derecho;421;Derecho
+4;Administración de empresas y derecho;48;Programas y certificaciones interdisciplinarios relativos a administración de empresas y derecho;488;Programas y certificaciones interdisciplinarios relativos a administración de empresas y derecho
+5;Ciencias naturales, matemáticas y estadística;51;Ciencias biológicas y afines;511;Biología
+5;Ciencias naturales, matemáticas y estadística;51;Ciencias biológicas y afines;512;Bioquímica
+5;Ciencias naturales, matemáticas y estadística;51;Ciencias biológicas y afines;519;Ciencias biológicas y afines no clasificados en otra parte
+5;Ciencias naturales, matemáticas y estadística;52;Medio ambiente;521;Ciencias del medio ambiente
+5;Ciencias naturales, matemáticas y estadística;52;Medio ambiente;522;Medio ambiente natural y vida silvestre
+5;Ciencias naturales, matemáticas y estadística;52;Medio ambiente;529;Medio ambiente no clasificados en otra parte
+5;Ciencias naturales, matemáticas y estadística;53;Ciencias físicas;531;Química
+5;Ciencias naturales, matemáticas y estadística;53;Ciencias físicas;532;Ciencias de la tierra
+5;Ciencias naturales, matemáticas y estadística;53;Ciencias físicas;533;Física
+5;Ciencias naturales, matemáticas y estadística;53;Ciencias físicas;539;Ciencias físicas no clasificadas en otra parte
+5;Ciencias naturales, matemáticas y estadística;54;Matemáticas y estadística;541;Matemáticas
+5;Ciencias naturales, matemáticas y estadística;54;Matemáticas y estadística;542;Estadística
+5;Ciencias naturales, matemáticas y estadística;58;Programas y certificaciones interdisciplinarios relativos a ciencias naturales, matemáticas y estadística;588;Programas y certificaciones interdisciplinarios relativos a ciencias naturales, matemáticas y estadística
+6;Tecnologías de la Información y la Comunicación (TIC);61;Tecnologías de la Información y la Comunicación (TIC);611;Uso de computadores
+6;Tecnologías de la Información y la Comunicación (TIC);61;Tecnologías de la Información y la Comunicación (TIC);612;Diseño y administración de redes y bases de datos
+6;Tecnologías de la Información y la Comunicación (TIC);61;Tecnologías de la Información y la Comunicación (TIC);613;Desarrollo y análisis de software y aplicaciones
+6;Tecnologías de la Información y la Comunicación (TIC);61;Tecnologías de la Información y la Comunicación (TIC);619;Tecnologías de la información  y la comunicación (TIC) no clasificada en otra parte
+6;Tecnologías de la Información y la Comunicación (TIC);68;Programas y certificaciones interdisciplinarios relativos a tecnologías de la información y la comunicación (TIC);688;Programas y certificaciones interdisciplinarios relativos a tecnologías de la información y la comunicación (TIC)
+7;Ingeniería, industria y construcción;71;Ingeniería y profesiones afines;711;Ingeniería y procesos químicos
+7;Ingeniería, industria y construcción;71;Ingeniería y profesiones afines;712;Tecnología de protección del medio ambiente
+7;Ingeniería, industria y construcción;71;Ingeniería y profesiones afines;713;Electricidad y energía
+7;Ingeniería, industria y construcción;71;Ingeniería y profesiones afines;714;Electrónica y automatización
+7;Ingeniería, industria y construcción;71;Ingeniería y profesiones afines;715;Mecánica y profesiones afines a la metalistería
+7;Ingeniería, industria y construcción;71;Ingeniería y profesiones afines;716;Vehículos, barcos y aeronaves de motor
+7;Ingeniería, industria y construcción;71;Ingeniería y profesiones afines;719;Ingeniería y profesiones afines no clasificadas en otra parte
+7;Ingeniería, industria y construcción;72;Industria y procesamiento;721;Procesamiento de alimentos
+7;Ingeniería, industria y construcción;72;Industria y procesamiento;722;Materiales (vidrio, papel, plástico y madera)
+7;Ingeniería, industria y construcción;72;Industria y procesamiento;723;Producción textiles (ropa, calzado y artículos de cuero)
+7;Ingeniería, industria y construcción;72;Industria y procesamiento;724;Minería y extracción
+7;Ingeniería, industria y construcción;72;Industria y procesamiento;729;Industria y procesamiento no clasificados en otra parte
+7;Ingeniería, industria y construcción;73;Arquitectura y construcción;731;Arquitectura y urbanismo
+7;Ingeniería, industria y construcción;73;Arquitectura y construcción;732;Construcción e ingeniería civil
+7;Ingeniería, industria y construcción;78;Programas y certificaciones interdisciplinarios relativos a ingeniería, industria y construcción ;788;Programas y certificaciones interdisciplinarios relativos a ingeniería, industria y construcción 
+8;Agropecuario, Silvicultura, Pesca y Veterinaria;81;Agropecuario;811;Producción agrícola y ganadera
+8;Agropecuario, Silvicultura, Pesca y Veterinaria;81;Agropecuario;812;Horticultura (Técnicas de huertas, invernaderos, viveros y jardines)
+8;Agropecuario, Silvicultura, Pesca y Veterinaria;81;Agropecuario;819;Agropecuario no clasificado en otra parte
+8;Agropecuario, Silvicultura, Pesca y Veterinaria;82;Silvicultura;821;Silvicultura
+8;Agropecuario, Silvicultura, Pesca y Veterinaria;83;Pesca;831;Pesca
+8;Agropecuario, Silvicultura, Pesca y Veterinaria;84;Veterinaria;841;Veterinaria
+8;Agropecuario, Silvicultura, Pesca y Veterinaria;88;Programas y certificaciones interdisciplinarias relativos a agropecuario, silvicultura, pesca y veterinaria;888;Programas y certificaciones interdisciplinarias relativos a agropecuario, silvicultura, pesca y veterinaria
+9;Salud y bienestar;91;Salud;911;Odontología y estudios dentales
+9;Salud y bienestar;91;Salud;912;Medicina
+9;Salud y bienestar;91;Salud;913;Enfermería y partería
+9;Salud y bienestar;91;Salud;914;Tecnología de diagnóstico y tratamiento médico
+9;Salud y bienestar;91;Salud;915;Fisioterapia, Fonoaudiología, Terapia ocupacional, Nutrición y afines
+9;Salud y bienestar;91;Salud;916;Farmacia
+9;Salud y bienestar;91;Salud;917;Medicina y terapia tradicional y complementaria
+9;Salud y bienestar;91;Salud;918;Instrumentación quirúrgica
+9;Salud y bienestar;91;Salud;919;Salud no clasificada en otra parte
+9;Salud y bienestar;92;Bienestar;921;Atención a adultos, adultos mayores con o sin discapacitados
+9;Salud y bienestar;92;Bienestar;922;Atención, protección y servicios a la infancia, adolescencia y juventud
+9;Salud y bienestar;92;Bienestar;929;Bienestar no clasificado en otra parte
+9;Salud y bienestar;98;Programas y certificaciones interdisciplinarios relativos a salud y bienestar;988;Programas y certificaciones interdisciplinarios relativos a salud y bienestar
+10;Servicios;101;Servicios personales;1011;Servicios domésticos
+10;Servicios;101;Servicios personales;1012;Peluquería y tratamientos de belleza
+10;Servicios;101;Servicios personales;1013;Hotelería, restaurantes y servicios de banquetes
+10;Servicios;101;Servicios personales;1014;Deportes
+10;Servicios;101;Servicios personales;1015;Viajes, turismo y actividades recreativas
+10;Servicios;101;Servicios personales;1016;Servicios funerarios
+10;Servicios;101;Servicios personales;1019;Servicios personales no clasificados en otra parte
+10;Servicios;102;Servicios de higiene y salud ocupacional;1021;Saneamiento de la comunidad
+10;Servicios;102;Servicios de higiene y salud ocupacional;1022;Salud y protección laboral
+10;Servicios;102;Servicios de higiene y salud ocupacional;1029;Servicios de higiene y salud ocupacional no clasificadas en otra parte
+10;Servicios;103;Servicios de seguridad;1031;Educación militar y de defensa
+10;Servicios;103;Servicios de seguridad;1032;Protección de las personas y de la propiedad
+10;Servicios;103;Servicios de seguridad;1039;Servicios de seguridad no clasificados en otra parte
+10;Servicios;104;Servicios de transporte;1041;Servicios de transporte
+10;Servicios;108;Programas y certificaciones interdisciplinarios relativos a servicios;1088;Programas y certificaciones interdisciplinarios relativos a servicios
